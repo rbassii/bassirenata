@@ -125,6 +125,14 @@ body {
     line-height: 1.2em;
     color: #3D4042;
 }
+a {
+    color: #00C86F; /* Cor do link padrão */
+    text-decoration: none; /* Remove o sublinhado padrão */
+}
+
+a:hover {
+    color: darkgreen; /* Cor do link ao passar o mouse */
+}
 
 
 /*/////////////////////////////////////////////////////
