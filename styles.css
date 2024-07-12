@@ -58,6 +58,21 @@ body {
     height: 100%;
     overflow: scroll;
 }
+
+.container {
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.central-image {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
 .wrapper {
     height: 100%;
     display: table;
