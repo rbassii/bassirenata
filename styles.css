@@ -100,24 +100,24 @@ body {
 }
 
 .fade-in.header {
-    -webkit-animation-delay: 0.4s;
-    -moz-animation-delay: 0.4s;
-    -ms-animation-delay: 0.4s;
-    -o-animation-delay: 0.4s;
-    animation-delay: 0.4s;
+    -webkit-animation-delay: 0.3s;
+    -moz-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
+    -o-animation-delay: 0.3s;
+    animation-delay: 0.3s;
 }
 
 .fade-in.footer {
-    -webkit-animation-delay: 0.8s;
-    -moz-animation-delay: 0.8s;
-    -ms-animation-delay: 08s;
-    -o-animation-delay: 0.8s;
-    animation-delay: 0.8s;
+    -webkit-animation-delay: 0.6s;
+    -moz-animation-delay: 0.6s;
+    -ms-animation-delay: 0.6s;
+    -o-animation-delay: 0.6s;
+    animation-delay: 0.6s;
 }
 
 .header__title {
     font-size: 5.5em;
-    color: #0D121C;
+    color: #00C86F;
 }
 
 .header__description {
