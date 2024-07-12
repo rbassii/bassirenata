@@ -59,21 +59,6 @@ body {
     overflow: scroll;
 }
 
-.container {
-    position: relative;
-    width: 50%; /* Ocupa metade da largura da página */
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.central-image {
-    max-width: 100%;
-    max-height: 50%; /* Ocupa metade da altura da página */
-    width: auto;
-    height: auto;
-}
 .wrapper {
     height: 100%;
     display: table;
