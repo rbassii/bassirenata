@@ -116,12 +116,12 @@ body {
 }
 
 .header__title {
-    font-size: 7em;
+    font-size: 6em;
     color: #0D121C;
 }
 
 .header__description {
-    font-size: 7em;
+    font-size: 6em;
     line-height: 1.2em;
     color: #0D121C;
 }
@@ -136,7 +136,7 @@ body {
     margin: 0 auto;
     list-style: none;
     display: flex;
-    gap: 24px;
+    gap: 20px;
     flex-direction: column;
 }
 @media (min-width: 600px) {
@@ -161,7 +161,7 @@ body {
     color: #0D121C;
     font-weight: lighter;
     text-decoration: none;
-    font: 1.2em;
+    font: 1.1em;
     /*animação*/
     -webkit-transition: color 0.2s ease-out, border-color 0.4s ease-out;
     -moz-transition: color 0.2s ease-out, border-color 0.4s ease-out;
