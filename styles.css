@@ -120,13 +120,13 @@ body {
 }
 
 .header__title {
-    font-size: 3em;
+    font-size: 4em;
     color: #3D4042;
 }
 
 .header__description {
     font-size: 4em;
-    line-height: 1.2em;
+    line-height: 1.3em;
     color: #3D4042;
 }
 
