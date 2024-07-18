@@ -144,4 +144,19 @@ a.link-hover:hover {
     .footer {
         font-size: 14px;
     }
+
+    .list {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .list__item>a {
+        font-size: 1em;
+        color: #3D4042;
+        text-decoration: none;
+    }
+
+    .list__item>a:hover {
+        color: #00C86F;
+    }
 }
